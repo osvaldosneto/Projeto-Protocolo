@@ -1,0 +1,7 @@
+crc==0.4.1
+docopt==0.6.2
+future==0.18.2
+iso8601==0.1.13
+pyserial==3.5
+PyYAML==5.3.1
+serial==0.0.97
